@@ -1,0 +1,38 @@
+_repo: Life-of-Johnson-Volume-5--13-Tour-to-the-Hebrides--1773--and-Journey-into-North-Wales--1774-_10451
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Boswell, James
+    birthdate: 1740
+    deathdate: 1795
+    gutenberg_agent_id: '659'
+    url: http://www.gutenberg.org/2009/agents/659
+    wikipedia: http://en.wikipedia.org/wiki/James_Boswell
+  editor:
+    agent_name: Hill, George Birkbeck Norman
+    alias: Hill, G. Birkbeck (George Birkbeck)
+    birthdate: 1835
+    deathdate: 1903
+    gutenberg_agent_id: '2931'
+    url: http://www.gutenberg.org/2009/agents/2931
+    wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lexicographers -- Great Britain -- Biography'
+- !lcsh 'Johnson, Samuel, 1709-1784'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcc 'PR'
+- GITenberg
+title: "Life of Johnson, Volume 5\r\nTour to the Hebrides (1773) and Journey into\
+  \ North Wales (1774)"
+url: http://www.gutenberg.org/ebooks/10451
