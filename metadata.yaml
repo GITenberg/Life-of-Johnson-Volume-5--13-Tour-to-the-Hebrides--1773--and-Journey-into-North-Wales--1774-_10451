@@ -1,5 +1,8 @@
 _repo: Life-of-Johnson-Volume-5--13-Tour-to-the-Hebrides--1773--and-Journey-into-North-Wales--1774-_10451
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Boswell, James
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2931
     wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10451#Life-of-Johnson-Volume-5--13-Tour-to-the-Hebrides--1773--and-Journey-into-North-Wales--1774-
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2003-12-01'
 gutenberg_type: Text
